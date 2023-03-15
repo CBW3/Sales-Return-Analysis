@@ -1,0 +1,21 @@
+Assignment: 
+
+Which SKU held the most overall returns?
+
+Which SKU had the most returns due to missing parts?
+
+What specific date ranges are driving the largest amount of returns? 
+
+How many SKUs are in this dataset?
+
+Determine regionality driving returns. Are specific regions overdriving returns?
+
+What is the overall age of product returns? 
+
+What percentage of products have a return-to-vendor age greater than 60 days? 
+
+Overall outcome is to determine the key return factors to help the team make decisions on issues to address.
+
+We need to drive down the amount of returns on the product and develop actionable analysis and recommendations to improve this situation.
+
+Based on this data, please create custom charts to help visualize your findings and provide recommendations on next steps. 
